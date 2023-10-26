@@ -6,6 +6,24 @@
 - 🎨🖌️ Loves doing 3D art (Blender) and 3D-printing (FLM & SLA) it
 - 🌳🤸‍♀️ Enjoys going for walks, doing mobility workout and strength training
 
+### What I am using
+
+#### Languages
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,latex" />
+  </a>
+</p>
+
+#### Tools & Software
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=blender,linux,git,docker,vscode" />
+  </a>
+</p>
+
 
 <!--
 **RobertHue/RobertHue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
