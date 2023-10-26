@@ -12,7 +12,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,latex" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,cmake,latex,bash" />
   </a>
 </p>
 
@@ -20,7 +20,15 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,linux,git,docker,vscode,arduino" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,blender" />
+  </a>
+</p>
+
+#### Environments
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,docker,raspberrypi,arduino" />
   </a>
 </p>
 
