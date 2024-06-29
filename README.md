@@ -1,6 +1,5 @@
 ### Hi there!
 
-- 💻 🔥 Passionate about software development
 - 🔧 📄 Likes well-written, -designed, -documented, tested & easy to maintain code
 - 🐧🌱 Linux Mint Desktop User
 - 🎨🖌️ Loves doing 3D art (Blender) and 3D-printing (FLM & SLA) it
