@@ -1,7 +1,7 @@
 ### Hi there!
 
 - 🔧 📄 Likes well-written, -designed, -documented, tested & easy to maintain code
-- 🐧🌱 Linux Mint Desktop User
+- 🐧🌱 Linux User
 - 🎨🖌️ Loves doing 3D art (Blender) and 3D-printing (FLM & SLA) it
 - 🌳🤸‍♀️ Enjoys going for walks, doing mobility workout and strength training
 
